@@ -1,4 +1,4 @@
-![NET_Core_Logo svg](https://github.com/user-attachments/assets/96fe643a-9e26-44d2-ac4f-9eb723eac1e0)<h1 align="center">Hi 👋, I'm Nacir</h1>
+<h1 align="center">Hi 👋, I'm Nacir</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nacirmh&label=Profile%20views&color=0e75b6&style=flat" alt="nacirmh" /> </p>
 
